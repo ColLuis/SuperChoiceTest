@@ -1,0 +1,5 @@
+com\superchoice\pages\HomePage.class
+com\superchoice\testRunners\TestRunner.class
+com\superchoice\pages\SearchResultsPage.class
+com\superchoice\stepdefinitions\SearchSteps.class
+com\superchoice\AppTest.class
